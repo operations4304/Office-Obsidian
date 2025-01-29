@@ -1,5 +1,9 @@
 # Office-Xmind
 
+知乎文字链接：[另一种实现Word、Excel、PPT跳转回链的思路](https://zhuanlan.zhihu.com/p/696110995)
+
+哔哩哔哩视频链接：[Obsidian与Office：用Quicker摘录图片，并带上跳转链接](https://www.bilibili.com/video/BV1CT421X7AS/?spm_id_from=333.1387.homepage.video_card.click&vd_source=c08c205650a4a5e13d87475ab1ab2431)
+
 ### 另一种实现Word、Excel、PPT跳转回链的思路
 
 #### 灵感来源
